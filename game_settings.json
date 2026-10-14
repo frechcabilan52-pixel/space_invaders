@@ -1,0 +1,15 @@
+{
+    "sound_volume": 0.8,
+    "music_volume": 1.0,
+    "mobile_controls": true,
+    "left_button": true,
+    "right_button": true,
+    "fire_button": true,
+    "fullscreen": false,
+    "show_fps": true,
+    "difficulty": "normal",
+    "player_speed": 20,
+    "enemy_difficulty": "normal",
+    "screen_shake": true,
+    "damage_effects": true
+}
